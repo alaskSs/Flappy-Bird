@@ -1,4 +1,5 @@
-# Flappy-Bird
+# Flappy-Bird 
+PLAY!! PLAY!! PLAY!! PLAY!! PLAY!! 
 This is a pygame based Flappy Bird game in python 3.7
 Module imported:
   random(For generating random pipe)
@@ -13,6 +14,10 @@ Functions :
   isCollide(when bird collide it will show the welcome screen)
   getRandomPipe(is for generating random pipe)
   
+Gallery : 
+  /audio(wav files) and /sprites(images.png only)
+  You can customize it according to your choices 
+
 
 NOTE : The require files is already in the dir download the zip and open that dir in your desired IDE. 
 
